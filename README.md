@@ -31,12 +31,12 @@ SkinGlance is a Android application that lets users detect potential skin cancer
 
 ## 📷 Screenshots
 
-| <img src="https://github.com/user-attachments/assets/70fbe4e0-33fe-43db-a963-066b134bebb4" alt="homeScreen" width="300"/> |                        | <img src="https://github.com/user-attachments/assets/032886c2-b504-4fac-95e0-be5032363cd5" alt="cameraScreen" width="300"/> |
+| <img src="https://github.com/user-attachments/assets/70fbe4e0-33fe-43db-a963-066b134bebb4" alt="homeScreen" width="200"/> |            | <img src="https://github.com/user-attachments/assets/032886c2-b504-4fac-95e0-be5032363cd5" alt="cameraScreen" width="200"/> |
 |:-----------------------------------:|:-----------------------:|:-----------------------------------------:|
 |      Home Screen                 |                         |        Camera Screen                  |
 
 
-| <img src="https://github.com/user-attachments/assets/92e36dbc-d949-46ac-afe5-73261e50ef6c" alt="resultScreen1" width="300"/> |                        | <img src="https://github.com/user-attachments/assets/957ca65b-ddae-4a8c-8a65-342883d94604" alt="resultScreen2" width="300"/> |
+| <img src="https://github.com/user-attachments/assets/92e36dbc-d949-46ac-afe5-73261e50ef6c" alt="resultScreen1" width="200"/> |            | <img src="https://github.com/user-attachments/assets/957ca65b-ddae-4a8c-8a65-342883d94604" alt="resultScreen2" width="200"/> |
 |:-----------------------------------:|:-----------------------:|:-----------------------------------------:|
 |      Result Screen                 |                         |        Result Screen                  |
 
